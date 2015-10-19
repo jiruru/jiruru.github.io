@@ -1,0 +1,9 @@
+jekyllを使ってめっちゃ簡単にgithubでブログを公開してみました。
+jekyllは静的なサイトを構築するためのruby製ファイルジェネレータで、コマンドいくつか打つだけですぐできてしまう超便利。
+'gem install jekyll'
+'jekyll new username.github.io'
+これでカレントディレクトリ以下にblognameというディレクトリが作られていると思います。
+そしてこいつをusename.github.ioとかいうリポジトリ作って,そこにあげてからusername.github.ioにアクセスするともうできてます。
+
+記事の投稿は_postディレクトリ"2015-10-16-articlename.markdown"という感じのファイル名にしてmarkdownで書いてください。
+あとは、好きなようにcssとかhtmlとかをいじって好きなようにカスタマイズしていきましょう！
