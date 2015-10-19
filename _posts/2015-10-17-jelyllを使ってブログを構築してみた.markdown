@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2015-10-16 11:17:49
+date:   2015-10-17 11:17:49
 categories: jekyll update
 ---
 
@@ -14,3 +14,8 @@ jekyllは静的なサイトを構築するためのruby製ファイルジェネ�
 
 記事の投稿は_postディレクトリ"2015-10-16-articlename.markdown"という感じのファイル名にしてmarkdownで書いてください。
 あとは、好きなようにcssとかhtmlとかをいじって好きなようにカスタマイズしていきましょう！
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
