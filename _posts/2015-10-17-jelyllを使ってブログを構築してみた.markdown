@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "jelyllを使ってブログを構築してみた"
 date:   2015-10-17 11:17:49
 categories: jekyll update
 ---
-
+{% highlight ruby %}
 jekyllを使ってめっちゃ簡単にgithubでブログを公開してみました。
 jekyllは静的なサイトを構築するためのruby製ファイルジェネレータで、コマンドいくつか打つだけですぐできてしまう超便利。
 'gem install jekyll'
@@ -14,7 +14,7 @@ jekyllは静的なサイトを構築するためのruby製ファイルジェネ�
 
 記事の投稿は_postディレクトリ"2015-10-16-articlename.markdown"という感じのファイル名にしてmarkdownで書いてください。
 あとは、好きなようにcssとかhtmlとかをいじって好きなようにカスタマイズしていきましょう！
-
+{% endhighlight %}
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
